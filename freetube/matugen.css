@@ -1,0 +1,33 @@
+/* Matugen theme for freetube by kat1ewolf*/
+
+:root {
+    /* custom color 1: base theme: everforestLightLow*/
+    --matugen-primary-text-color: {{colors.on_surface.default.hex}}; /* on_surface */
+    --matugen-secondary-text-color: {{colors.on_surface_variant.default.hex}}; /* on_surface_variant */
+    --matugen-tertiary-text-color: {{colors.on_surface_variant.default.hex}}; /* on_surface_variant */
+    --matugen-title-color: {{colors.primary_fixed.default.hex}}; /* primary_fixed */
+    --matugen-bg-color: {{colors.background.default.hex}}; /* background */
+    --matugen-favorite-icon-color: {{colors.primary.default.hex}}; /* primary */
+    --matugen-card-bg-color: {{colors.on_secondary_fixed.default.hex}}; /* on_secondary_fixed */
+    --matugen-secondary-card-bg-color: {{colors.primary_container.default.hex}}; /* primary_container */
+    --matugen-scrollbar-color: {{colors.surface_variant.default.hex}}; /* surface_variant */
+    --matugen-scrollbar-color-hover: {{colors.on_secondary.default.hex}}; /* on_secondary */
+    --matugen-side-nav-color: {{colors.on_secondary_fixed.default.hex}}; /* on_secondary_fixed */
+    --matugen-side-nav-hover-color: {{colors.on_secondary.default.hex}}; /* on_secondary */
+    --matugen-side-nav-active-color: {{colors.secondary_container.default.hex}}; /* secondary_container */
+    --matugen-search-bar-color: {{colors.surface.default.hex}}; /* surface */
+    /* custom color 2: main color theme: mainDeepPurple*/
+    --matugen-primary-color: {{colors.primary.default.hex}}; /* primary */
+    --matugen-primary-color-hover: {{colors.primary_fixed.default.hex}}; /* primary_fixed */
+    --matugen-primary-color-active: {{colors.secondary.default.hex}}; /* secondary */
+    /* custom color 3: secondary color theme: secDeepPurple*/
+    --matugen-accent-color-rgb: 187 202 188; /* has to be rgb | primary */
+    --matugen-accent-color-hover: {{colors.primary.default.hex}}; /* primary */
+    --matugen-accent-color-active: {{colors.primary.default.hex}}; /* primary */
+    --matugen-accent-color-light: {{colors.primary.default.hex}}; /* primary */
+    --matugen-accent-color-visited: {{colors.primary.default.hex}}; /* primary */
+    /* Other colors*/
+    --matugen-text-with-accent-color: {{colors.on_primary_fixed.default.hex}}; /* on_primary_fixed */
+    --matugen-destructive-color: {{colors.error_container.default.hex}}; /* error_container */
+    --matugen-destructive-text-color: {{colors.error.default.hex}}; /* error */
+}
