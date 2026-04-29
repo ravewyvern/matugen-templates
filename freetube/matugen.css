@@ -21,7 +21,7 @@
     --matugen-primary-color-hover: {{colors.primary_fixed.default.hex}}; /* primary_fixed */
     --matugen-primary-color-active: {{colors.secondary.default.hex}}; /* secondary */
     /* custom color 3: secondary color theme: secDeepPurple*/
-    --matugen-accent-color-rgb: 187 202 188; /* has to be rgb | primary */
+    --matugen-accent-color-rgb: {{colors.primary.default.red}} {{colors.primary.default.green}} {{colors.primary.default.blue}}; /* has to be rgb | primary */
     --matugen-accent-color-hover: {{colors.primary.default.hex}}; /* primary */
     --matugen-accent-color-active: {{colors.primary.default.hex}}; /* primary */
     --matugen-accent-color-light: {{colors.primary.default.hex}}; /* primary */
