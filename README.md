@@ -1,5 +1,6 @@
 # Matugen Template Collection
 Collection of matugen templates I have found or created myself.
+
 For each template I will include a guide on how to use it
 
 I will work on improving the quailty and number of templates :3
@@ -30,6 +31,7 @@ Credit: kuska [link](https://steambrew.app/theme?id=ipYjqODds05KMcvh7QJn)
 
 ## Thunderbird
 Credit: Myself
+
 Note: this theme is heavily WIP
 
 ## Vivaldi
